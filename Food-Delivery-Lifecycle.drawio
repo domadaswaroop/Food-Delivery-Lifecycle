@@ -1,0 +1,68 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36 Edg/140.0.0.0" version="28.2.3">
+  <diagram name="Page-1" id="PtBxwBI_xKI_IbEeEdQi">
+    <mxGraphModel dx="1034" dy="570" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="gRMjdXTQtE1Ws79_6imO-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" target="gRMjdXTQtE1Ws79_6imO-8">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="400" y="130" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="gRMjdXTQtE1Ws79_6imO-6" value="Plan&lt;div&gt;New Feature Live order Tracking&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="307.5" y="80" width="200" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="gRMjdXTQtE1Ws79_6imO-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" target="gRMjdXTQtE1Ws79_6imO-10">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="400" y="240" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="gRMjdXTQtE1Ws79_6imO-8" value="&lt;div&gt;Code&lt;/div&gt;&lt;div&gt;Restaurant Service,User Service, order Service&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#6d8764;fontColor=#ffffff;strokeColor=#3A5431;" vertex="1" parent="1">
+          <mxGeometry x="295" y="170" width="210" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="gRMjdXTQtE1Ws79_6imO-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" target="gRMjdXTQtE1Ws79_6imO-12">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="400" y="350" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="gRMjdXTQtE1Ws79_6imO-10" value="Build&lt;div&gt;Dockerize backend, Fastlane mobile builds&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="300" y="280" width="200" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="gRMjdXTQtE1Ws79_6imO-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" target="gRMjdXTQtE1Ws79_6imO-15">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="400" y="540" as="sourcePoint" />
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="gRMjdXTQtE1Ws79_6imO-12" value="Test&lt;div&gt;API Tests for Order Services&lt;/div&gt;&lt;div&gt;Payment gateway tests&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;fillColor=#ffcc99;strokeColor=#36393d;" vertex="1" parent="1">
+          <mxGeometry x="307.5" y="390" width="185" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="gRMjdXTQtE1Ws79_6imO-18" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" target="gRMjdXTQtE1Ws79_6imO-17">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="400" y="650" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="gRMjdXTQtE1Ws79_6imO-15" value="Release&lt;div&gt;Canary release of Delivery partner app&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;gradientColor=#7ea6e0;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="280" y="590" width="240" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="gRMjdXTQtE1Ws79_6imO-20" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="gRMjdXTQtE1Ws79_6imO-17" target="gRMjdXTQtE1Ws79_6imO-19">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="gRMjdXTQtE1Ws79_6imO-17" value="Delivery&lt;div&gt;Deploy to Kubemetes&lt;/div&gt;&lt;div&gt;Cluster of AWS&lt;/div&gt;" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fillColor=#f8cecc;gradientColor=#ea6b66;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="335" y="690" width="130" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="gRMjdXTQtE1Ws79_6imO-24" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="gRMjdXTQtE1Ws79_6imO-19" target="gRMjdXTQtE1Ws79_6imO-21">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="400" y="960" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="gRMjdXTQtE1Ws79_6imO-19" value="Operate&lt;div&gt;Monitor surge in during IPL match&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;gradientColor=#ffd966;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="300" y="870" width="200" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="gRMjdXTQtE1Ws79_6imO-21" value="Monitors &amp;amp; Feedback&lt;div&gt;User report cart bug - goes to plan&lt;/div&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#6d8764;fontColor=#ffffff;strokeColor=#3A5431;" vertex="1" parent="1">
+          <mxGeometry x="282.5" y="1000" width="235" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
